@@ -1,4 +1,4 @@
-# data-viz-creations
+# My Data Viz Creations
 This is a collection of my data visualization creations and experiments organized by type of plot. Code (mostly) in Python.
 Data viz is an art, from picking the appropriate chart, to choosing expressive and harmonic aesthetic elements - I try to contribute with some inspirations, and making the code open.
 
