@@ -1,9 +1,11 @@
 # My Data Viz Creations
 This is a collection of my creations and experiments in data visualization organized by type of plot. Code is (mostly) in Python.
 
-Data viz is a skill, from picking the appropriate chart, to choosing expressive and harmonic aesthetic elements, and transmitting information effectively - I try to contribute with some inspirations, and making the code open.
+Data viz is a skill, from picking the appropriate chart, to choosing expressive and harmonic aesthetic elements, and transmitting information effectively. In this repo I share insights and inspirations, and also open access to my code. 
 
-### Distribution
+If you see any room for improvement, please don't hesitate to open an issue.
+
+### Distribution plots
 1. Histogram of ages with boxplot and central tendency measures: [code] ()
 <p align="center">
   <img src="charts/age_hist.png" width="600">
