@@ -1,6 +1,7 @@
 # My Data Viz Creations
-This is a collection of my data visualization creations and experiments organized by type of plot. Code (mostly) in Python.
-Data viz is an art, from picking the appropriate chart, to choosing expressive and harmonic aesthetic elements - I try to contribute with some inspirations, and making the code open.
+This is a collection of my creations and experiments in data visualization organized by type of plot. Code is (mostly) in Python.
+
+Data viz is a skill, from picking the appropriate chart, to choosing expressive and harmonic aesthetic elements, and transmitting information effectively - I try to contribute with some inspirations, and making the code open.
 
 ### Distribution
 1. Histogram of ages with boxplot and central tendency measures: [code] ()
