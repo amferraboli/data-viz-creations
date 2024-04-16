@@ -6,7 +6,7 @@ Data viz is a skill, from picking the appropriate chart, to choosing expressive 
 If you see any room for improvement, please don't hesitate to open an issue.
 
 ### Distribution plots
-1. Histogram of ages with boxplot and central tendency measures: [code] (https://github.com/amferraboli/data-viz-creations/blob/main/src/age_hist_box.py)
+1. Histogram of ages with boxplot and central tendency measures: [code](https://github.com/amferraboli/data-viz-creations/blob/main/src/age_hist_box.py)
 <p align="center">
   <img src="plots/age_histogram.jpg" width="600">
 </p>
