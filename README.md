@@ -1,7 +1,7 @@
-# My Data Viz Creations
-This is a collection of my creations and experiments in data visualization organized by type of plot. Code is (mostly) in Python.
+# Personal Data Viz Creations: a collection of my vizualization experiments 
 
-Data viz is a skill, from picking the appropriate chart, to choosing expressive and harmonic aesthetic elements, and transmitting information effectively. In this repo I share insights and inspirations, and also open access to my code. 
+Data viz is a skill, from picking the appropriate chart, to choosing expressive and harmonic aesthetic elements, and transmitting information effectively. 
+This is a collection of my creations and experiments in data visualization organized by type of plot. In this repo I share insights and inspirations, and also open access to my code, using Python.
 
 If you see any room for improvement, please don't hesitate to open an issue.
 
