@@ -12,7 +12,7 @@ If you see any room for improvement, please don't hesitate to open an issue.
 </p>
 
 
-### Part of a Whole
+### Part of a Whole (WIP)
 1. Venn diagram of study areas: code 
 <p align="center">
   <img src="charts/area_venn.jpg">
@@ -78,7 +78,7 @@ If you see any room for improvement, please don't hesitate to open an issue.
   <img src="charts/work_venn.jpg" width="600">
 </p>
 
-### Ranking
+### Ranking (WIP)
 1. Wordcloud of development and studies sources: code 
 <p align="center">
   <img src="charts/estudos_wordcloud.jpg">
@@ -114,7 +114,7 @@ If you see any room for improvement, please don't hesitate to open an issue.
   <img src="charts/zoom_circ_pack.png" width="600">
 </p>
 
-### Map
+### Map (WIP)
 1. Map of birth place: code 
 <p align="center">
   <img src="charts/origin_map.png" width="600">
